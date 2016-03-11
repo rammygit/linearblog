@@ -1,4 +1,4 @@
-
+baseurl: "/linearblog"
 url: "http://rammygit.github.io" # the base hostname & protocol for your site
 name: Gujarati Samaj
 description: Linear template for Jekyll
